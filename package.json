@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "remix": "^2.15.2",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
